@@ -1,0 +1,29 @@
+{
+  "name": "foltyn-utilities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./Structures/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.0.0",
+    "ascii-table": "^0.0.9",
+    "chalk": "^5.0.1",
+    "char-mod-mail": "^1.1.4",
+    "common-tags": "^1.8.2",
+    "discord-html-transcripts": "^2.5.8",
+    "discord.js": "^13.9.0",
+    "dotenv": "^16.0.1",
+    "fs": "^0.0.1-security",
+    "glob": "^8.0.3",
+    "libsodium-wrappers": "^0.7.10",
+    "moment": "^2.29.4",
+    "mongodb": "^4.8.0",
+    "mongoose": "^6.4.4",
+    "ms": "^2.1.3"
+  }
+}
